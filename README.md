@@ -15,7 +15,7 @@ My first repository
 # HOW TO GET AWAY WITH MURDER
 ![MURDER image](murder.jpg)
 
->" We are all bad people. Thatâ€™s the only thing we have in common.- Bonnie
+>" We are all bad people. That's the only thing we have in common.- Bonnie
 The show is known for its non-linear storytelling, with each season centered on a central mystery or legal case that plays out over the course of the episodes. Future flashbacks add suspense and intrigue by leaving viewers to piece together the events leading up to the central crime."How to Get Away with Murder" received critical acclaim for its complex narrative structure, strong performances, and the groundbreaking casting of Viola Davis as the lead, which made her the first African American woman to win a Primetime Emmy Award for Outstanding Lead Actress in a Drama Series. While maintaining a suspenseful and engaging storyline, the show also addressed social issues such as race, gender, and sexuality.
 
 #### LINK:
